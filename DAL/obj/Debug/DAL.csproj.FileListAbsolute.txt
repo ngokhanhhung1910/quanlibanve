@@ -1,0 +1,15 @@
+D:\visual\UI\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\visual\UI\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\visual\UI\DAL\bin\Debug\DAL.dll.config
+D:\visual\UI\DAL\bin\Debug\DAL.dll
+D:\visual\UI\DAL\bin\Debug\DAL.pdb
+D:\visual\UI\DAL\bin\Debug\BUS.dll
+D:\visual\UI\DAL\bin\Debug\EntityFramework.dll
+D:\visual\UI\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\visual\UI\DAL\bin\Debug\BUS.pdb
+D:\visual\UI\DAL\bin\Debug\BUS.dll.config
+D:\visual\UI\DAL\bin\Debug\EntityFramework.xml
+D:\visual\UI\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\visual\UI\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\visual\UI\DAL\obj\Debug\DAL.dll
+D:\visual\UI\DAL\obj\Debug\DAL.pdb

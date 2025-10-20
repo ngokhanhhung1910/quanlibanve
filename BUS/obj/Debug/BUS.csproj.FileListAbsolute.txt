@@ -1,0 +1,12 @@
+D:\visual\UI\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\visual\UI\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\visual\UI\BUS\bin\Debug\BUS.dll.config
+D:\visual\UI\BUS\bin\Debug\BUS.dll
+D:\visual\UI\BUS\bin\Debug\BUS.pdb
+D:\visual\UI\BUS\bin\Debug\EntityFramework.dll
+D:\visual\UI\BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\visual\UI\BUS\bin\Debug\EntityFramework.xml
+D:\visual\UI\BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\visual\UI\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\visual\UI\BUS\obj\Debug\BUS.dll
+D:\visual\UI\BUS\obj\Debug\BUS.pdb
